@@ -1,1 +1,2 @@
 # Open-Traverse-Computation
+'''A program to calculate an open traverse serie. The input values (known coordinates,traverse angles, traverse leg distances, traverse point IDs) for the program should be entered by the user manually.The results of the calculations should be printed to the screen using proper notation as given in examples. Every component of the calculation should be clearly explained to the user before and after the calculation. Please take into account that the x axis shows the north direction'''
